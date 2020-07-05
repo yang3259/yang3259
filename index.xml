@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YangNan&#39;s Blog</title>
-    <link>http://www.ynblog.cn/</link>
+    <link>https://www.ynblog.cn/</link>
     <description>Recent content on YangNan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 03 Sep 2017 11:58:06 +0800</lastBuildDate>
     
-	<atom:link href="http://www.ynblog.cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.ynblog.cn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Laravel中前端js上传图片到七牛云</title>
-      <link>http://www.ynblog.cn/2017/09/03/laravel%E4%B8%AD%E5%89%8D%E7%AB%AFjs%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</link>
+      <link>https://www.ynblog.cn/2017/09/03/laravel%E4%B8%AD%E5%89%8D%E7%AB%AFjs%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</link>
       <pubDate>Sun, 03 Sep 2017 11:58:06 +0800</pubDate>
       
-      <guid>http://www.ynblog.cn/2017/09/03/laravel%E4%B8%AD%E5%89%8D%E7%AB%AFjs%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</guid>
+      <guid>https://www.ynblog.cn/2017/09/03/laravel%E4%B8%AD%E5%89%8D%E7%AB%AFjs%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E5%88%B0%E4%B8%83%E7%89%9B%E4%BA%91/</guid>
       <description>&lt;p&gt;以下Laravel中使用浏览器端上传图片到七牛云，下面只是做一些简单的流程实例。
 详情请看官方文档&lt;a href=&#34;https://developer.qiniu.com/kodo/sdk/1283/javascript&#34;&gt;七牛云官方js文档&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>归档</title>
-      <link>http://www.ynblog.cn/archives/</link>
+      <link>https://www.ynblog.cn/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.ynblog.cn/archives/</guid>
+      <guid>https://www.ynblog.cn/archives/</guid>
       <description></description>
     </item>
     
